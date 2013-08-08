@@ -1,6 +1,6 @@
 @echo off
 chcp 65001
-TITLE PocketMine-MP Minecraft PE server
+TITLE Pro's survival games 0.7,2
 COLOR 0F
 mode con: cols=90
 cd /d %~dp0
